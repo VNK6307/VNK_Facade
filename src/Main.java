@@ -17,9 +17,5 @@ public class Main {
         b = scanner.nextLine();
         System.out.println("\tРезультат умножения двух двоичных чисел:");
         System.out.println(a + " * " + b + " = " + bins.mult(a, b));
-
-
-
-
     }// main
 }// classb
